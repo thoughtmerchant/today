@@ -35,3 +35,1630 @@ Served asset /rails.png - 304 Not Modified (0ms)
 
 Started GET "/assets/rails.png" for 127.0.0.1 at 2013-05-30 20:50:51 -0400
 Served asset /rails.png - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 20:58:38 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (9.8ms)
+Compiled application.css  (639ms)  (pid 26824)
+Compiled jquery.js  (25ms)  (pid 26824)
+Compiled jquery_ujs.js  (0ms)  (pid 26824)
+Compiled application.js  (38ms)  (pid 26824)
+Completed 200 OK in 759ms (Views: 758.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 20:58:39 -0400
+Served asset /application.css - 200 OK (6ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 20:58:39 -0400
+Served asset /jquery.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 20:58:39 -0400
+Served asset /jquery_ujs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 20:58:39 -0400
+Served asset /application.js - 200 OK (2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:02:54 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (223ms)  (pid 26824)
+Completed 200 OK in 239ms (Views: 239.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:54 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:02:54 -0400
+Served asset /application.css - 304 Not Modified (34ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:54 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:54 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:02:55 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:55 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:55 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:02:55 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:55 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:02:56 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:03:49 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (1.7ms)
+Compiled application.css  (237ms)  (pid 26824)
+Completed 200 OK in 280ms (Views: 279.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:03:49 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:03:49 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:03:49 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:03:49 -0400
+Served asset /application.css - 200 OK (5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:05:01 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 9ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:05:01 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:05:01 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:05:01 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:05:01 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:06:04 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (255ms)  (pid 26824)
+Completed 200 OK in 272ms (Views: 271.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:04 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:04 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:06:04 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:04 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:06:27 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (256ms)  (pid 26824)
+Completed 200 OK in 272ms (Views: 272.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:27 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:27 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:06:27 -0400
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:27 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:06:36 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (250ms)  (pid 26824)
+Completed 200 OK in 265ms (Views: 265.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:36 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:36 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:06:36 -0400
+Served asset /application.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:36 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:06:37 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:06:37 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:37 -0400
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:37 -0400
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:06:37 -0400
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:07:06 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (225ms)  (pid 26824)
+Completed 200 OK in 266ms (Views: 265.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:07:06 -0400
+Served asset /application.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:07:06 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:07:06 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:07:06 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:08:11 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (255ms)  (pid 26824)
+Completed 200 OK in 274ms (Views: 274.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:08:11 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:08:11 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:08:11 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:08:11 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:09:25 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (269ms)  (pid 26824)
+Completed 200 OK in 286ms (Views: 286.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:09:25 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:09:25 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:09:25 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:09:25 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:14:43 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (4.0ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:14:43 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:14:43 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:14:43 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:14:43 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:16:26 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 35ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:16:26 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:26 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:26 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:26 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:16:27 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:16:27 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:27 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:27 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:27 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:16:27 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /application.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 33ms (Views: 32.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:28 -0400
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:16:40 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 9ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:40 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:16:40 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:40 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:40 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:16:41 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:16:41 -0400
+Served asset /application.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:41 -0400
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:41 -0400
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:41 -0400
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:16:56 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 9ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:56 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:16:56 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:56 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:56 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:16:57 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 32ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:16:57 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:57 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:57 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:57 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:16:57 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:16:57 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:57 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:57 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:16:57 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:17:02 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 9ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:17:02 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:17:02 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:17:02 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:17:02 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:17:55 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled font.js  (0ms)  (pid 26824)
+Compiled application.js  (29ms)  (pid 26824)
+Completed 200 OK in 55ms (Views: 54.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:17:55 -0400
+Served asset /font.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:17:55 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:17:55 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:17:55 -0400
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:17:55 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:18:28 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled font.js  (0ms)  (pid 26824)
+Compiled application.js  (23ms)  (pid 26824)
+Completed 200 OK in 40ms (Views: 39.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:18:28 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:18:28 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:18:28 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:18:28 -0400
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:18:28 -0400
+Served asset /font.js - 200 OK (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:18:45 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 9ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:18:45 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:18:45 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:18:45 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:18:45 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:18:45 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:19:16 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled font.js  (0ms)  (pid 26824)
+Compiled application.js  (1ms)  (pid 26824)
+Completed 200 OK in 40ms (Views: 40.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:19:16 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:16 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:16 -0400
+Served asset /font.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:16 -0400
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:16 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:19:26 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled font.js  (0ms)  (pid 26824)
+Compiled application.js  (1ms)  (pid 26824)
+Completed 200 OK in 39ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:19:26 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:26 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:26 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:26 -0400
+Served asset /font.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:26 -0400
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:19:33 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:19:33 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:33 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:33 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:33 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:33 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:19:41 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 29ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:19:41 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:41 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:41 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:41 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:41 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:19:46 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:19:46 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:46 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:46 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:46 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:46 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:19:58 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled font.js  (0ms)  (pid 26824)
+Compiled application.js  (1ms)  (pid 26824)
+Completed 200 OK in 43ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:58 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:58 -0400
+Served asset /font.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:19:58 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:58 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:19:58 -0400
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:20:18 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled font.js  (0ms)  (pid 26824)
+Compiled application.js  (1ms)  (pid 26824)
+Completed 200 OK in 20ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:20:18 -0400
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:20:18 -0400
+Served asset /font.js - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:20:18 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:20:18 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:20:18 -0400
+Served asset /application.js - 304 Not Modified (28ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:21:07 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (244ms)  (pid 26824)
+Completed 200 OK in 286ms (Views: 286.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:21:07 -0400
+Served asset /application.css - 200 OK (12ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:21:07 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:21:07 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:21:07 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:21:07 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:21:32 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (264ms)  (pid 26824)
+Completed 200 OK in 284ms (Views: 283.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:21:32 -0400
+Served asset /application.css - 200 OK (12ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:21:32 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:21:32 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:21:32 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:21:32 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:22:08 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (261ms)  (pid 26824)
+Completed 200 OK in 278ms (Views: 278.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:22:08 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:22:08 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:22:08 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:22:08 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:22:08 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:23:57 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (275ms)  (pid 26824)
+Completed 200 OK in 294ms (Views: 293.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:23:58 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:23:58 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:23:58 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:23:58 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:23:58 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:24:04 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (265ms)  (pid 26824)
+Completed 200 OK in 283ms (Views: 283.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:24:04 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:24:04 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:24:04 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:24:04 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:24:04 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:24:55 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 271ms
+
+ActionView::Template::Error (Undefined variable: "$grey".
+  (in /Rails/today/app/assets/stylesheets/application.css.sass)):
+    3:   head
+    4:     title Fuck
+    5:     script src="//use.typekit.net/snp4yyl.js" type="text/javascript"
+    6:     = stylesheet_link_tag    "application", :media => "all"
+    7:     = javascript_include_tag "application"
+    8:     = csrf_meta_tags
+    9: 
+  app/assets/stylesheets/_type.sass:9
+  app/assets/stylesheets/application.css.sass:10
+  app/views/layouts/application.html.slim:6:in `_app_views_layouts_application_html_slim__3414853234864817577_70240936588640'
+
+
+  Rendered /Users/Berry/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /Users/Berry/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /Users/Berry/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:25:08 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (271ms)  (pid 26824)
+Completed 200 OK in 292ms (Views: 291.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:25:08 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:25:08 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:25:08 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:25:08 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:25:08 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:25:37 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (263ms)  (pid 26824)
+Completed 200 OK in 306ms (Views: 306.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:25:38 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:25:38 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:25:38 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:25:38 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:25:38 -0400
+Served asset /application.css - 200 OK (6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:26:33 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (264ms)  (pid 26824)
+Completed 200 OK in 281ms (Views: 281.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:26:33 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:26:33 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:26:33 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:26:33 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:26:33 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:26:46 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (274ms)  (pid 26824)
+Completed 200 OK in 318ms (Views: 317.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:26:46 -0400
+Served asset /application.css - 200 OK (12ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:26:46 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:26:46 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:26:46 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:26:46 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:27:11 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (271ms)  (pid 26824)
+Completed 200 OK in 289ms (Views: 288.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:27:11 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:27:11 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:27:11 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:27:11 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:27:11 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:28:37 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (269ms)  (pid 26824)
+Completed 200 OK in 309ms (Views: 309.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:28:37 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:28:37 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:28:37 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:28:37 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:28:37 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:29:25 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (271ms)  (pid 26824)
+Completed 200 OK in 290ms (Views: 290.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:25 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:25 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:29:25 -0400
+Served asset /application.css - 200 OK (6ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:25 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:25 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:29:26 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:26 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:26 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:26 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:29:26 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:26 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:29:28 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:29:28 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:28 -0400
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:28 -0400
+Served asset /font.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:28 -0400
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:28 -0400
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:29:45 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (268ms)  (pid 26824)
+Completed 200 OK in 286ms (Views: 285.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:45 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:45 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:29:45 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:45 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:29:45 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:30:10 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (275ms)  (pid 26824)
+Completed 200 OK in 292ms (Views: 292.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:30:10 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:30:10 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:30:10 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:30:10 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:30:10 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:30:46 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 240ms
+
+ActionView::Template::Error (Undefined variable: "$darkgray".
+  (in /Rails/today/app/assets/stylesheets/application.css.sass)):
+    3:   head
+    4:     title Fuck
+    5:     script src="//use.typekit.net/snp4yyl.js" type="text/javascript"
+    6:     = stylesheet_link_tag    "application", :media => "all"
+    7:     = javascript_include_tag "application"
+    8:     = csrf_meta_tags
+    9: 
+  app/assets/stylesheets/_type.sass:9
+  app/assets/stylesheets/application.css.sass:10
+  app/views/layouts/application.html.slim:6:in `_app_views_layouts_application_html_slim__3414853234864817577_70240936588640'
+
+
+  Rendered /Users/Berry/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+  Rendered /Users/Berry/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+  Rendered /Users/Berry/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (6.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:30:55 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (293ms)  (pid 26824)
+Completed 200 OK in 311ms (Views: 310.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:30:56 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:30:56 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:30:56 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:30:56 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:30:56 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:32:33 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (274ms)  (pid 26824)
+Completed 200 OK in 294ms (Views: 293.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:32:34 -0400
+Served asset /application.css - 200 OK (13ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:32:34 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:32:34 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:32:34 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:32:34 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:33:00 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (301ms)  (pid 26824)
+Completed 200 OK in 321ms (Views: 320.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:33:01 -0400
+Served asset /application.css - 200 OK (11ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:33:01 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:33:01 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:33:01 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:33:01 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:34:06 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (270ms)  (pid 26824)
+Completed 200 OK in 288ms (Views: 287.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:34:06 -0400
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:34:06 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:34:06 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:34:06 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:34:06 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:34:35 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (276ms)  (pid 26824)
+Completed 200 OK in 318ms (Views: 318.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:34:35 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:34:35 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:34:35 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:34:35 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:34:35 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:35:07 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (275ms)  (pid 26824)
+Completed 200 OK in 294ms (Views: 293.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:07 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:35:07 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:07 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:07 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:07 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:35:13 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (298ms)  (pid 26824)
+Completed 200 OK in 319ms (Views: 318.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:14 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:35:14 -0400
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:14 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:14 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:14 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:35:31 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (282ms)  (pid 26824)
+Completed 200 OK in 299ms (Views: 299.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:32 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:35:32 -0400
+Served asset /application.css - 200 OK (8ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:32 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:32 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:35:32 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:36:20 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (275ms)  (pid 26824)
+Completed 200 OK in 317ms (Views: 317.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:36:21 -0400
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:36:21 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:36:21 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:36:21 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:36:21 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-30 21:37:27 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (0.0ms)
+Compiled application.css  (273ms)  (pid 26824)
+Completed 200 OK in 290ms (Views: 290.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-30 21:37:27 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-30 21:37:27 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font.js?body=1" for 127.0.0.1 at 2013-05-30 21:37:27 -0400
+Served asset /font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-30 21:37:27 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-30 21:37:27 -0400
+Served asset /application.css - 200 OK (7ms)
