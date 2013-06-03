@@ -10,17 +10,17 @@ section
       .title Opening Remarks
       .time 9:45AM
     li.presentation
-      a
+      a href="#talk1"
         .speaker John Pignata
         .title Asynchronous Service Oriented Design
         .time 10AM
     li.presentation
-      a
+      a href="#talk2"
         .speaker Mike Bernstein
         .title To Know A Garbage Collector
         .time 10:55AM
     li.presentation
-      a
+      a href="#talk3"
         .speaker Steve Berry, Kevin Sherus, and Emily Stolfo
         .title Microtalks
         .time 11:50AM
@@ -28,17 +28,17 @@ section
       .title Lunch
       .time 12:20PM
     li.presentation
-      a
+      a href="#talk4"
         .speaker Aaron Quint, Matthew Salerno, and JD Harrington
         .title Microtalks
         .title 1:35PM
     li.presentation
-      a
+      a href="#talk5"
         .speaker Pat Shaughnessy
         .title Functional Programming and Ruby
         .time 2:20PM
     li.presentation
-      a
+      a href="#talk6"
         .speaker Lauren Voswinkel
         .title Putting Off Persistence
         .time 3:15PM
@@ -70,6 +70,21 @@ section
       .title Yacht Docks
       .time 10PM
 
-    
+section#talk1.talk
+  h1 Asynchronous Service Oriented Design
+  .speaker John Pignata
+  p Your monolithic application is getting unwieldy. Concerns are entangled, response time is getting sluggish, and changing anything in production requires deploying your entire system. Teams facing this challenge often have an "Introduce Services" chore in their backlog that inevitably sinks to the bottom of the list. Despite the realization that your monolithic application will sink under its own weight, you fear the inherent operational complexities of a service oriented system.
+  p The complexity of operating services results from the reality that your system will be only as strong as the weakest dependent service. Synchronous service requests require a round-trip request and response cycle in real-time. Your system's response time now might be only as fast as your slowest service and its uptime might be only as high as your weakest service. This potential brittleness is a high barrier to entry.
+  p The boundaries of our potential services are defined by their communication patterns. One path forward toward service oriented design is to first target the components of your system that communicate asynchronously. These interactions do not require a roundtrip response in real-time and instead rely on incoming messages. First focusing on services that can be addressed through delayed messages will allow us to begin to carve up our application while ensuring the operational integrity of our system.
+  p In this talk we'll look at using message passing patterns when designing our service oriented systems. We'll dig into an evolving feature from being some code sprinkled throughout the app folder in our Rails application to a standalone system that's independently scalable, testable, and deployable. We'll investigate the tactics we use to slice up our monolithic application, the operations and monitoring concerns it introduces, and look at several different messaging tools and protocols along the way.
+  h2 Biography
+  p John Pignata is a local New York City developer. He spends his days building systems at GroupMe to facilitate the exchange of millions of messages a day between friends and families within private groups on their mobile phones.
+
+section#talk2.talk
+  h1 To Know A Garbage Collector
+  .speaker Mike Bernstein
+  p It started as an obsession with making the web application used at my day job faster, and ended with trying to implement new Garbage Collection algorithms in a notoriously insane codebase. Garbage collection is an epic hack and a triumphant abstraction that supports various programming paradigms. As hardware and software changes, Garbage Collection's role also changes but remains equally important. I'll discuss my experiments with MRI Ruby, my investigations into other languages and the influence of their GC implementations, the history of the subject, and more.
+  h2 Biography
+  p Michael Bernstein is a Brooklyn based software developer, educator, musician, and food and drink fanatic. He is currently the Development Manager at Paperless Post, a New York City based startup.
 
 
