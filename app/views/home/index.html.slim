@@ -10,17 +10,17 @@ section
       .title Opening Remarks
       .time 9:45AM
     li.presentation
-      a href="#talk1"
+      a href="#Asynchronous-Service-Oriented-Design"
         .speaker John Pignata
         .title Asynchronous Service Oriented Design
         .time 10AM
     li.presentation
-      a href="#talk2"
+      a href="#To-Know-A-Garbage-Collector"
         .speaker Mike Bernstein
         .title To Know A Garbage Collector
         .time 10:55AM
     li.presentation
-      a href="#talk3"
+      a href="#Microtalks-1"
         .speaker Steve Berry, Kevin Sherus, and Emily Stolfo
         .title Microtalks
         .time 11:50AM
@@ -28,17 +28,17 @@ section
       .title Lunch
       .time 12:20PM
     li.presentation
-      a href="#talk4"
+      a href="#Microtalks-2"
         .speaker Aaron Quint, Matthew Salerno, and JD Harrington
         .title Microtalks
         .title 1:35PM
     li.presentation
-      a href="#talk5"
+      a href="#Functional-Programming-and-Ruby"
         .speaker Pat Shaughnessy
         .title Functional Programming and Ruby
         .time 2:20PM
     li.presentation
-      a href="#talk6"
+      a href="#Putting-Off-Persistence"
         .speaker Lauren Voswinkel
         .title Putting Off Persistence
         .time 3:15PM
@@ -46,17 +46,17 @@ section
       .title Afternoon break
       .time 4PM
     li.presentation
-      a
+      a href="#Microtalk-2"
         .speaker Mike Dalessio and Julie Gill
         .title Microtalks
         .time 4:20PM
     li.presentation
-      a
+      a href="#Krypt-Semper-Pi"
         .speaker Martin Bosslet
         .title Krypt. Semper Pi.
         .time 4:50PM
     li.presentation
-      a
+      a href="#Deathmatch-Bundler-vs-Rubygems-org"
         .speaker Andre Arko
         .title Deathmatch Bundler vs Rubygems.org
         .time 5:45PM
@@ -70,7 +70,7 @@ section
       .title Yacht Docks
       .time 10PM
 
-section#talk1.talk
+section#Asynchronous-Service-Oriented-Design.talk
   h1 Asynchronous Service Oriented Design
   .speaker John Pignata
   p Your monolithic application is getting unwieldy. Concerns are entangled, response time is getting sluggish, and changing anything in production requires deploying your entire system. Teams facing this challenge often have an "Introduce Services" chore in their backlog that inevitably sinks to the bottom of the list. Despite the realization that your monolithic application will sink under its own weight, you fear the inherent operational complexities of a service oriented system.
@@ -80,11 +80,117 @@ section#talk1.talk
   h2 Biography
   p John Pignata is a local New York City developer. He spends his days building systems at GroupMe to facilitate the exchange of millions of messages a day between friends and families within private groups on their mobile phones.
 
-section#talk2.talk
+section#To-Know-A-Garbage-Collector.talk
   h1 To Know A Garbage Collector
   .speaker Mike Bernstein
   p It started as an obsession with making the web application used at my day job faster, and ended with trying to implement new Garbage Collection algorithms in a notoriously insane codebase. Garbage collection is an epic hack and a triumphant abstraction that supports various programming paradigms. As hardware and software changes, Garbage Collection's role also changes but remains equally important. I'll discuss my experiments with MRI Ruby, my investigations into other languages and the influence of their GC implementations, the history of the subject, and more.
   h2 Biography
   p Michael Bernstein is a Brooklyn based software developer, educator, musician, and food and drink fanatic. He is currently the Development Manager at Paperless Post, a New York City based startup.
 
+section#Microtalks-1.talk
+
+  h1 Usability Primer in 10 Minutes Flat
+  .speaker Steve Berry
+  p In this talk we will go over usability heuristics for building better web experiences.
+  h2 Biography
+  p Steve is a designer of things - most of the time they are on the internet. He is an advocate of playing ping pong at work.
+
+  h1 Building a Theme Engine w/ Ruby Mustache
+  .speaker Kevin Sheurs
+  p This talk will explore the design and architecture of the VHX theme engine, which allows our filmmakers to easily create highly-customizable websites to promote and sell their movies. We’ll walk through the technical and UX decisions that were made to optimize for maintainability, flexibility and future-proofing.
+  p VHX themes are a blend of HTML, CSS, JavaScript and Mustache templates that are parsed by both Ruby and JavaScript. On the Ruby side, our theme engine can take advantage of server-side rendering, caching, and testability; with the JavaScript implementation we can add client-side rendering, live previewing, and enable an offline development environment for theme designers.
+  p We’ll show off the code involved in VHX’s theme engine, advanced code editor (with live previewing through the HTML5 postMessage API), a master/child inheritance system that allows themes to be forked, and piecing it all together in a beautiful, easy-to-use interface.
+  h2 Biography
+  p Kevin Sheurs is a full-stack engineer and CTO at VHX, where he is enabling filmmakers to distribute video directly to their audience. Previously, he was Director of Engineering at Vimeo, where he lastly led development on the full site rebuild. He has a passion for large-scale architecture, performance, scalability, technology leadership, and education. He currently lives in NYC with his girlfriend and fat cat.
+
+  h1 Hacking the Academic Experience
+  .speaker Emily Stolfo
+  p When I was asked to teach Ruby on Rails at Columbia University I observed that a significant number of the skills required to become a successful professional in the industry are acquired on the job and aren’t being taught in school. Many of us professionals thrive on open source software and on sharing code, but academia is not always teaching this type of resourcefulness to students.
+  p This presentation will cover lessons learned from the experience teaching in my alma mater's CS program, how I developed a hacker-centric curriculum, and how we as hackers can fix this.
+  h2 Biography
+  p Emily Stolfo is a Ruby Engineer and Evangelist on the MongoDB drivers team at 10gen. Before joining 10gen, Emily worked as a Rails developer at a NYC startup but her history with Rails goes back to a research project at Paris' Louvre Museum. She has a degree in Computer Science and Art History and likes to run and attend concerts when not teaching Rails at Columbia University in her free time.
+
+section.talk#Microtalks-2
+
+  h1 Working with Rubyists
+  .speaker Aaron Quint
+  p Welcome to the trials and tribulations of managing a Ruby team. Let me introduce you to the characters, the challenges, the high stakes rat race. I'll share as fast as possible, what I've learned and what I failed at and why management shouldnt be an evil word.
+  h2 Biography
+  p Aaron Quint is a born and raised Brooklynite. He is the CTO of Paperless Post, a Rubyist, a JS-er, an avid open-sourcer and an amateur charcutier.
+
+  h1 Motion in the Middle - RubyMotion as a Gateway to iOS development
+  .speaker Matt Salerno
+  p In the past year or so, RubyMotion (RM) has gained its share of both adherents and skeptics. Some criticize RM for being too far removed from the underlying Cocoa frameworks, while others claim the toolchain isn’t "Ruby" enough. While there is certainly merit to these conflicting objections, it is because of these supposed flaws, and not in spite of them, that RubyMotion is an excellent tool for producing iOS apps. By leveraging both the power of the Objective-C frameworks and the speed and expressiveness of Ruby (not to mention opening up the iOS ecosystem to the historically prolific open source Ruby community), RM has the potential to greatly expand the iOS developer base and change the mobile landscape for the better. In his talk, "Motion in the Middle," Matthew will discuss the ways in which RubyMotion enables elegant, Ruby-esque design while exposing enough of the iOS/Cocoa frameworks to allow for wide-ranging and highly extendable applications.
+  h2 Biography
+  p Matthew is a software developer at Cyrus Innovation, an agile  consultancy in NYC. A former scrum master and operations manager, he  graduated from the Flatiron School where he was trained in Ruby and  Rails. He has been developing iOS apps with RubyMotion at Cyrus, most  recently working on Flavorpill’s Calendar in Your Pocket app. Matthew has given talks on Agile, Scrum for Non-Development Teams, and Git  workflow, and is the organizer of the NYC-based meetup, Ruby Blind. He  is very excited to be presenting at this year’s GORUCO on developing  for iOS in RubyMotion and its implications for the future of the iOS  and Ruby communities.
+
+  h1 Take a picture, it'll last longer.
+  .speaker JD Harrington
+  p Cheap code branches permeate our daily workflow, but the code we write is only half the story. Introducing data model changes into production can challenge developers and ops people alike, but how do we deal with these issues in our experimental phase?
+  p In this talk, we'll discuss using features provided by modern filesystems like ZFS & Btrfs to branch databases along with code, letting developers experiment and ops people model complex environments, all from the comfort of our laptops.
+  h2 Biography
+  p JD Harrington is a full-stack engineer at StreetEasy.com, working equally in Ruby and Rails application development and systems operations. When not fighting with computers, he is generally obsessed with music and is heavily involved in NYC's electronic music scene, as both a fan and a DJ.
+
+section.talk#Functional-Programming-and-Ruby
+  h1 Functional Programming and Ruby
+  .speaker Pat Shaughnessy
+  p While Ruby is object oriented and imperative, it does have some features that allow for functional programming. In this talk we’ll compare Haskell, a functional programming language, with Ruby while exploring these common functional patterns: higher order functions, lazy evaluation, and memoization.
+  p Along the way we’ll explore how Ruby works internally, find out whether it’s a true functional language, and zoom in to take a close look at Ruby 2.0’s implementation of the new “Enumerator::Lazy” feature.
+  h2 Biography
+  p Pat Shaughnessy is a Ruby developer working at a global management consulting firm. Pat also writes a blog about Ruby development at patshaughnessy.net, and just self-published an eBook on Ruby internals called Ruby Under a Microscope. Pat's articles and presentations have been featured multiple times on the Ruby Weekly newsletter, the Ruby5 podcast and the Ruby Show. When he's not at the keyword, Pat enjoys spending time with his wife and two kids. Pat is also a fluent Spanish speaker and travels frequently to Spain to visit his wife's family.
+
+section.talk#Putting-Off-Persistence
+  h1 Putting off Persistence
+  .speaker Lauren Voswinkel
+  p In Rails, we have a beautiful framework that can take us from a blank slate to a fully-functional app in little time. However, doing things "The Rails Way" has a lot of implicit dependencies, including persistence. Are you really equipped to make one of the largest decisions about your app before any of your code has even been written?
+  p By putting this decision off you can get a feel for your domain before ever committing anything to a db schema. This means fewer migrations and fewer db-related hacks. Also, these practices encourage encapsulation and interchangeability, which means you get the ability to choose which datastore is best for you. Not just on an application level, but on a per model level as well!
+  p During the talk we’ll be walking through simple examples at different points in application lifecycle. These snapshots will address the biggest pain points of a persistence free process and leave you in a position to put off persistence in your own app development!
+  h2 Biography
+  p Lauren has been doing web development for nearly a decade. Spending the first five years of her time in front-end development, she has since started diving deeper into the stack. She is currently burning her spare time by working on a project aiming to make organizing events or hangouts less of a pain. When she isn't programming, she can be found teaching courses or TAing with Girl Develop It! Pittsburgh, discussing queer and gender theory, encouraging tech diversity in whatever way she can, doing trick shots with a whip, or fire spinning.
+
+section.talk#Microtalk-2
+
+  h1 Nokogiri - History and Future
+  .speaker Mike Dalessio
+  p Over the past few years, Nokogiri has slowly eclipsed older XML parsing libraries to garner nearly 10 million downloads from rubygems.org.
+  p But why another XML parsing library? Isn't it boring? And what does "nokogiri" mean in Japanese, anyway?
+  p These questions will be answered, and I'll do a brief dive into all the technologies that we use to make Nokogiri a fast, reliable and robust gem. Topics will include:
+
+  ul
+    li Origins of the project: motivation, problems and impact
+    li Native C and Java extensions
+    li FFI, and how to know if it's Right For You
+    li Debugging tools (valgrind, perftools)
+    li Packaging tools (mini_portile, rake-compiler)
+    li Installation issues, and what we're doing to help
+    li Feature roadmap
+
+  h2 Biography
+  p Mike Dalessio has a serious job as Director of Pivotal Labs NYC, where he hardly ever gets to write software anymore. But that doesn't mean he's all business -- he's been having super happy fun times coding for over 20 years.
+  p Co-author of Nokogiri, Enterprisey Doer of Good Deeds and veteran of startup failure and success, this Rubyist believes Elvis is still alive and considers 72 columns the canonical code width (because, FORTRAN, that's why).
+
+  h1 A House of Cards - The Perils of Maintaining a 7-Year-Old Codebase
+  .speaker Julie Gill
+  p With RoR, often the focus is on how easy it is to build an application from the ground up. But, there is a whole different set of challenges when working on a mature application.
+  p This talk will discuss the issues discovered when peeling back the layers of a 7-year-old pile of code. In the beginning, the question isn’t “How do I build this,” but more like “Where does this go” or “Where is this bug coming from.” I will discuss the sometimes-unintended consequences of introducing new features, tracking down and fixing ancient bugs, estimating the time a new feature will take to build given the many other peculiar surprises you will uncover, and finally how not to worry about the inevitable day when you will break everything.
+  p The audience will hear from a developer who works with old code every day and get tips to make their future selves and successors less confused, more productive, and less unintentionally destructive.
+  h2 Biography
+  p Julie Gill is a developer at StreetEasy.com and works on everything from making things look pretty on the front end to keeping things running smoothly under the hood of the app. After hours you can find her playing her euphonium (picture a mini tuba), pumping iron at the gym, or cooking awesome paleo food.
+
+section.talk#Krypt-Semper-Pi
+  h1 Krypt. Semper Pi.
+  .speaker Martin Bosslet
+  p Many people don't like Cryptography. Whenever he falls out of a bar, he carries this strong odor of ivory-towering, bikeshedding and plain, outright arrogance. He seems to be a loner and a smartass, rude, and it's hard to follow his boring, lengthy explanations. But once you get to know him better, it actually turns out that he's really a nice guy. Sure, a little bit paranoid, but his intentions are pure and just. He'll probably never be your buddy on Facebook ('cause he likely won't set up an account in the first place), but over time you will realize that it can be quite pleasant having him around.
+  p Krypt is the tool that tames him, and krypt is the tool that translates his sentences into plain, understandable Ruby. Gone are the times when you just couldn't figure out what parameters to use in order to please him, gone are the times when he would take your passwords and not stow them away safely because yet again he didn't fully understand what you were asking him to do. OK, this metaphor thing is getting a little old now. krypt makes using crypto fun and easy, and it works on all Rubies on all platforms (yep, Windows, too) - out of the box, no restrictions. It is about diversity - it allows you to choose from different providers that are best-suited for the particular task at hand.
+  p You'll get a whirlwind tour of how krypt is different than other crypto libraries and why. You'll find out about the finer pieces of its inner workings and you might take home a few tricks that evolved while developing the native extensions that sit at the very heart of krypt. With its recent integration into JRuby, you might already be using krypt with JRuby right now without even knowing. Learn about the details and how krypt is used to simulate OpenSSL features that were not available in JRuby before. Find out more about how it can help making Ruby a safer place. krypt tries to ultimately replace the OpenSSL extension in the Ruby standard library, and with our combined effort we could actually steer the story of Ruby cryptography towards a happy ending.
+  p Find out how!
+  h2 Biography
+  p Martin is a freelancer by day, by night he is also a member of ruby-core, one of the maintainers of the Ruby OpenSSL extension and the author of krypt. Cryptography is his passion, and not only after the epiphany he had once realizing that his last name carries "ssl" in it. He's been helping the European Commission to implement a digital signature platform over the past years, and this was also the reason for krypt - so that he could do it in a sane language for once. He recently discovered blogging as a compensation for not haunting other people with lengthy emails anymore.
+
+section.talk#Deathmatch-Bundler-vs-Rubygems-org
+  h1 Deathmatch Bundler vs Rubygems.org
+  .speaker Andre Arko
+  p The story of the quest to make bundle install faster; in which Rubyists around the world inadvertently DDoS rubygems.org, witness its ignominious death, and vow to rebuild it from the ashes stronger than it was before. Then, a tour of the changes; why is Redis so much slower than Postgres? Marvel at the gorgeous metrics and graphs used to measure and optimize; gasp in delight as we track, live, exactly how many Heroku dynos are needed. Finally, a happy ending: today, the server responds to requests TWO ORDERS OF MAGNITUDE faster than it did before.
+  h2 Biography
+  p André Arko has been a Rubyist for 8 years. In that time, he's written a lot of gems, including jquery-rails, and somehow wound up on the Bundler core team. He spends a lot of time excited to be writing in or about Ruby.
 
