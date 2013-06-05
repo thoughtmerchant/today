@@ -4,3 +4,13 @@ $body: #444444
 $gray: #bcbcbc
 $darkgray: #7c858e
 $lightgray: #e5e5e5
+
+@mixin border-radius($var)
+  @include border-top-radius($var)
+  @include border-bottom-radius($var)
+
+@mixin make-radius
+  @include border-radius(3px)
+
+@mixin make-transition
+  @include transition (all 0.1s ease-in-out)
