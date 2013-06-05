@@ -4,3 +4,4 @@ log/*
 /log/*
 db/*.sqlite3
 .sass-cache
+app/assets/.DS_Store
