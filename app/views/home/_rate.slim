@@ -1,0 +1,11 @@
+.rate.question data-rating-name=name
+  = link_to ratings_path(rating: { name: name, score: 1 }), remote: true, method: 'post', class: 'happy omega' do
+    span.icon-happy aria-hidden="true"
+  = link_to ratings_path(rating: { name: name, score: 0 }), remote: true, method: 'post', class: 'meh omega' do
+    span.icon-meh aria-hidden="true"
+  = link_to ratings_path(rating: { name: name, score: -1 }), remote: true, method: 'post', class: 'sad omega' do
+    span.icon-sad aria-hidden="true"
+  h3 Rate Talk
+.rate.answered data-rating-name=name
+  .thank-you
+    h3 Thank You!
