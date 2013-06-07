@@ -1,4 +1,4 @@
 Fuck::Application.routes.draw do
   root :to => 'home#index'
-  resources :ratings, only: :create
+  resources :ratings, only: [:create, :index]
 end

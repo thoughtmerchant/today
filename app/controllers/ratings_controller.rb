@@ -5,4 +5,8 @@ class RatingsController < ApplicationController
     render nothing: true
   end
 
+  def index
+    @ratings = Rating.all
+  end
+
 end

@@ -1,0 +1,16 @@
+header
+  h1
+    a href="#" Today @ GORUCO
+section
+  .ratings
+    - @ratings.each do |rating|
+      - if rating.score < 0
+        span.sad.omega
+          span.icon-sad aria-hidden="true"
+      - if rating.score == 0
+        span.meh.omega
+          span.icon-meh aria-hidden="true"
+      - if rating.score > 0
+        span.happy.omega
+          span.icon-happy aria-hidden="true"
+
