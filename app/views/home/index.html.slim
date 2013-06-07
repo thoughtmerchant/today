@@ -187,22 +187,44 @@ section#hacking-academic-experience.talk
     span.icon-double-arrow aria-hidden="true"
     | Back to Top
 
-section.talk#Microtalks-2
-
+section.talk#working-with-rubyists
   h1 Working with Rubyists
   .speaker Aaron Quint
   p Welcome to the trials and tribulations of managing a Ruby team. Let me introduce you to the characters, the challenges, the high stakes rat race. I'll share as fast as possible, what I've learned and what I failed at and why management shouldnt be an evil word.
   h2 Biography
   p Aaron Quint is a born and raised Brooklynite. He is the CTO of Paperless Post, a Rubyist, a JS-er, an avid open-sourcer and an amateur charcutier.
+  a.twitter href="http://twitter.com/aq"
+    span.icon-twitter aria-hidden="true"
+    | aq
+  a.link href="http://github.com/quirkey"
+    span.icon-link aria-hidden="true"
+    | github.com/quirkey
+  .clearfix
   = render partial: 'rate', locals: { name: 'Aaron Quint' }
+  a.top href="#agenda"
+    span.icon-double-arrow aria-hidden="true"
+    | Back to Top
+
+section.talk#motion-in-the-middle
 
   h1 Motion in the Middle - RubyMotion as a Gateway to iOS development
   .speaker Matt Salerno
   p In the past year or so, RubyMotion (RM) has gained its share of both adherents and skeptics. Some criticize RM for being too far removed from the underlying Cocoa frameworks, while others claim the toolchain isn’t "Ruby" enough. While there is certainly merit to these conflicting objections, it is because of these supposed flaws, and not in spite of them, that RubyMotion is an excellent tool for producing iOS apps. By leveraging both the power of the Objective-C frameworks and the speed and expressiveness of Ruby (not to mention opening up the iOS ecosystem to the historically prolific open source Ruby community), RM has the potential to greatly expand the iOS developer base and change the mobile landscape for the better. In his talk, "Motion in the Middle," Matthew will discuss the ways in which RubyMotion enables elegant, Ruby-esque design while exposing enough of the iOS/Cocoa frameworks to allow for wide-ranging and highly extendable applications.
   h2 Biography
   p Matthew is a software developer at Cyrus Innovation, an agile  consultancy in NYC. A former scrum master and operations manager, he  graduated from the Flatiron School where he was trained in Ruby and  Rails. He has been developing iOS apps with RubyMotion at Cyrus, most  recently working on Flavorpill’s Calendar in Your Pocket app. Matthew has given talks on Agile, Scrum for Non-Development Teams, and Git  workflow, and is the organizer of the NYC-based meetup, Ruby Blind. He  is very excited to be presenting at this year’s GORUCO on developing  for iOS in RubyMotion and its implications for the future of the iOS  and Ruby communities.
+  a.twitter href="http://twitter.com/seldomatt"
+    span.icon-twitter aria-hidden="true"
+    | seldomatt
+  a.link href="http://blog.seldomatt.com"
+    span.icon-link aria-hidden="true"
+    | blog.seldomatt.com
+  .clearfix
   = render partial: 'rate', locals: { name: 'Matt Salerno' }
+  a.top href="#agenda"
+    span.icon-double-arrow aria-hidden="true"
+    | Back to Top
 
+section.talk#take-a-picture
   h1 Take a picture, it'll last longer.
   .speaker JD Harrington
   p Cheap code branches permeate our daily workflow, but the code we write is only half the story. Introducing data model changes into production can challenge developers and ops people alike, but how do we deal with these issues in our experimental phase?
@@ -233,8 +255,7 @@ section.talk#Putting-Off-Persistence
   = render partial: 'rate', locals: { name: 'Lauren Voswinkel' }
   a href="#agenda" Back to agenda
 
-section.talk#Microtalk-2
-
+section.talk#nokogiri
   h1 Nokogiri - History and Future
   .speaker Mike Dalessio
   p Over the past few years, Nokogiri has slowly eclipsed older XML parsing libraries to garner nearly 10 million downloads from rubygems.org.
@@ -255,6 +276,7 @@ section.talk#Microtalk-2
   p Co-author of Nokogiri, Enterprisey Doer of Good Deeds and veteran of startup failure and success, this Rubyist believes Elvis is still alive and considers 72 columns the canonical code width (because, FORTRAN, that's why).
   = render partial: 'rate', locals: { name: 'Mike Dalessio' }
 
+section.talk#house-of-cards
   h1 A House of Cards - The Perils of Maintaining a 7-Year-Old Codebase
   .speaker Julie Gill
   p With RoR, often the focus is on how easy it is to build an application from the ground up. But, there is a whole different set of challenges when working on a mature application.
